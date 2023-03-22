@@ -7,6 +7,11 @@ This tool will scrape web3 audit platforms according to supplied handles and gen
 1. Gather all your findings in one place as a resume/profile to present to your clients.
 2. Research others by supplying their handles and learning from their patterns.
 
+### Dependencies
+
+1. Python3
+2. Requests -> `pip install requests`
+
 ### Execution
 
 `python3 APG.py -c4 <C4 Handle>`
